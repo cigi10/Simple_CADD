@@ -1,15 +1,16 @@
 Just as an introduction
 
-I will be using Vivado to be implementing all of the programs
-I will be providing a synthesis and a simulation of all the above 
+- I will be using Vivado to be implementing all of the programs
+- I will be providing a synthesis and a simulation of all the above 
 
 ## Basics 
-Hello there! So if you do not know what system verilog is in the first place, its basically something we use to command some circuit blocks to behave in a particular way; 
+- Hello there! So if you do not know what system verilog is in the first place, its basically something we use to command some circuit blocks to behave in a particular way; 
 this is called HDL or hardware descriptive language. System verilog is a very popular HDL. 
 - So with the help of verilog we basically command and make tiny blocks into something huge into like the devices you use in day to day life. 
 - Alright! So we are going to use Vivado to simulate and synthesize our code ie see the behaviour of the electronic circuits that we have made.
 - There are 3 types of styles ie writing code : Behavioural, Structural and Dataflow
-In this repo, ill be using behaviour since its just simpler that way for us as beginners to know what we are doing :) 
+In this repo, ill be using behaviour since its just simpler that way for us as beginners to know what we are doing :)
+
 - - - 
 
 ## Files in SV
