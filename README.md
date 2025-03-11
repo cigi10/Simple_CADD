@@ -1,4 +1,4 @@
-# Simple-CADD-
+# Simple-CADD
 - learning cadd from a to z 
 - In this repo, I will be taking you from zero to as much required for you to think easily to make whatever your mind can create like how one can create     
   beautiful pieces of artwork with a simple line or two.
