@@ -39,8 +39,8 @@ every file will have comment so do not worry my friend you will get to know the 
 | Block | Status |
 |--------|--------|
 | NOT Gate | [x] |
-| AND Gate | [ ] |
-| OR Gate | [ ] |
+| AND Gate | [x] |
+| OR Gate | [x] |
 | NAND Gate | [ ] |
 | NOR Gate | [ ] |
 | XOR Gate | [ ] |
