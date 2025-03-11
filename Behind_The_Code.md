@@ -4,3 +4,7 @@
   - this is what we usually see when we open it to a sv file : `timescale 1ns / 1ps
   - its basically telling us what unit of time we're using for the 1) delays and 2) the precison of the time -> that is the smallest amount of time that can be used for seeing any change in the boolean expression
   - this affects the performance and simulation accuracy -> you want a fast and good working circuit and to ensure that your delays should be low and it should be accurate 
+- - - 
+- #### Module
+  - hi so module is the most basic building block, like just a group of code which does a particular function thats all it is
+  - module not_gate(a,b); : after the keyword, we have the name of our module(inputs/outputs seperated by a , ); <-- basic syntax of module line
