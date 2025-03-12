@@ -41,10 +41,10 @@ every file will have comment so do not worry my friend you will get to know the 
 | NOT Gate | [x] |
 | AND Gate | [x] |
 | OR Gate | [x] |
-| NAND Gate | [ ] |
-| NOR Gate | [ ] |
-| XOR Gate | [ ] |
-| XNOR Gate | [ ] |
+| NAND Gate | [x] |
+| NOR Gate | [x] |
+| XOR Gate | [x] |
+| XNOR Gate | [x] |
 
 #### Basic Blocks (Combinational)
 | Block | Status |
