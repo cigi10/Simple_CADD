@@ -5,7 +5,7 @@
 // 
 // Create Date: 03/12/2025 05:00:47 PM
 // Design Name: 
-// Module Name: nor_gate
+// Module Name: xor_gate
 // Project Name: 
 // Target Devices: 
 // Tool Versions: 
