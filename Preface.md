@@ -49,11 +49,11 @@ every file will have comment so do not worry my friend you will get to know the 
 #### Basic Blocks (Combinational)
 | Block | Status |
 |--------|--------|
-| Multiplexer | [ ] |
-| Decoder | [ ] |
-| Encoder | [ ] |
-| Priority Encoder | [ ] |
-| Comparator | [ ] |
+| Multiplexer | [x] |
+| Decoder | [x] |
+| Encoder | [x] |
+| Priority Encoder | [x] |
+| Comparator | [x] |
 
 #### Arithmetic Units
 | Block | Status |
