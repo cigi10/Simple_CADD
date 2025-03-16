@@ -1,4 +1,4 @@
-# How To Use Vivado
+n# How To Use Vivado
 #### Creating a new project 
 ![Image](https://github.com/user-attachments/assets/297d3da4-29fe-4313-ae65-a26954974282)
 - click on create project and select next 
@@ -24,4 +24,4 @@
 ![Image](https://github.com/user-attachments/assets/88881fe1-e97a-4911-bc12-9172cd26c873)
 - click create file
 ![Image](https://github.com/user-attachments/assets/5d240b11-daac-47b4-9720-a6a2f3d62f81)
-- language is system verilog unless youre writing in verilog and click finish
+- language is system verilog unless youre writing in verilog and click finish, define module name and click finish
