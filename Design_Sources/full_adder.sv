@@ -5,7 +5,7 @@
 // 
 // Create Date: 03/16/2025 02:29:56 PM
 // Design Name: 
-// Module Name: half_adder
+// Module Name: full_adder
 // Project Name: 
 // Target Devices: 
 // Tool Versions: 
