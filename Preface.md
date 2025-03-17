@@ -58,8 +58,8 @@ every file will have comment so do not worry my friend you will get to know the 
 #### Arithmetic Units
 | Block | Status |
 |--------|--------|
-| Half Adder | [ ] |
-| Full Adder | [ ] |
+| Half Adder | [x] |
+| Full Adder | [x] |
 | Ripple Carry Adder | [ ] |
 | Carry Lookahead Adder | [ ] |
 | Subtractor | [ ] |
@@ -70,7 +70,7 @@ every file will have comment so do not worry my friend you will get to know the 
 #### Sequential Logic (Memory Elements)
 | Block | Status |
 |--------|--------|
-| SR Latch | [ ] |
+| SR Latch | [x] |
 | D Latch | [ ] |
 | D Flip-Flop | [ ] |
 | T Flip-Flop | [ ] |
