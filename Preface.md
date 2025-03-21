@@ -77,8 +77,8 @@ Every file will have comments explaining the chosen syntax, so don’t worry!
 | T Flip-Flop | [x] |
 | JK Flip-Flop | [x] |
 | Register | [x] |
-| Shift Register | [ ] |
-| Counter | [ ] |
+| Shift Register | [x] |
+| Counter | [x] |
 
 ## Memory Units
 | Block  | Status |
