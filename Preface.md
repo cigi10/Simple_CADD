@@ -1,53 +1,54 @@
-Just as an introduction
+# Introduction
 
-- I will be using Vivado to be implementing all of the programs
-- I will be providing a synthesis and a simulation of all the above 
+Hello there! If you're new to SystemVerilog, it's basically a way to tell circuit blocks how to behave. This is called an HDL or Hardware Description Language. SystemVerilog is one of the most widely used HDLs.
 
-## Basics 
-- Hello there! So if you do not know what system verilog is in the first place, its basically something we use to command some circuit blocks to behave in a particular way; 
-this is called HDL or hardware descriptive language. System verilog is a very popular HDL. 
-- So with the help of verilog we basically command and make tiny blocks into something huge into like the devices you use in day to day life. 
-- Alright! So we are going to use Vivado to simulate and synthesize our code ie see the behaviour of the electronic circuits that we have made.
-- There are 3 types of styles ie writing code : Behavioural, Structural and Dataflow
-In this repo, ill be using behaviour since its just simpler that way for us as beginners to know what we are doing :)
+With Verilog, we take tiny logic blocks and combine them into something much bigger—like the electronic devices you use daily. In this repo, we'll be using Vivado to simulate and synthesize our code, meaning we'll analyze how our circuits behave.
 
-- - - 
+## Coding Styles in Verilog
+There are three main ways to write Verilog code:
+- **Behavioral**
+- **Structural**
+- **Dataflow**
 
-## Files in SV
+For simplicity, we'll be using **behavioral** style since it’s easier to understand as beginners.
 
-### Design Files 
-- So these files are where you will "type" out your circuit and its functionality ie what you want it to do; just a note this on a register transfer level so when u hear RTL this and that its just things related to gates, registers, logic blocks that type of stuff
-- this is basically synthesizing/producing the code, whatever you want to call it
-- very similar to software coding and you might be able to understand and implement it pretty quick if you know C well cause its syntax is similar to that
+---
 
-### Testbench Files 
-- These are the files you use to confirm if what youve coded is done as intended
-- you provide it with test input values and they give the outputs its gotten using your module
-- this essentially helps you to simulate your hardware if you put it in fancy words
+# Files in SystemVerilog
 
-### Constraint Files
-- like the name, by putting these files, they give or set the rules one must follow to ensure a good healthy design which works without any issues
-- this is very necessary if you want to produce something useable XD
+## Design Files
+- These are where you define your circuit and its functionality.
+- This is written at the **Register Transfer Level (RTL)**, meaning it deals with gates, registers, and logic blocks.
+- If you’re familiar with C, SystemVerilog’s syntax will feel somewhat familiar.
 
-every file will have comment so do not worry my friend you will get to know the reason of the chosen syntax :)
+## Testbench Files
+- These files help verify that your design works as expected.
+- You provide test inputs, and they generate outputs based on your module.
+- This is how you **simulate** hardware.
 
-- - - 
+## Constraint Files
+- These define rules to ensure a reliable and functional design.
+- Constraints are necessary if you want a design that actually works without issues.
 
-### Content of Code Blocks
+Every file will have comments explaining the chosen syntax, so don’t worry!
 
-#### Basic Logic Gates (Combinational)
-| Block | Status |
+---
+
+# Content of Code Blocks
+
+## Basic Logic Gates (Combinational)
+| Block  | Status |
 |--------|--------|
-| NOT Gate | [x] |
-| AND Gate | [x] |
-| OR Gate | [x] |
+| NOT Gate  | [x] |
+| AND Gate  | [x] |
+| OR Gate  | [x] |
 | NAND Gate | [x] |
-| NOR Gate | [x] |
-| XOR Gate | [x] |
+| NOR Gate  | [x] |
+| XOR Gate  | [x] |
 | XNOR Gate | [x] |
 
-#### Basic Blocks (Combinational)
-| Block | Status |
+## Basic Blocks (Combinational)
+| Block  | Status |
 |--------|--------|
 | Multiplexer | [x] |
 | Decoder | [x] |
@@ -55,8 +56,8 @@ every file will have comment so do not worry my friend you will get to know the 
 | Priority Encoder | [x] |
 | Comparator | [x] |
 
-#### Arithmetic Units
-| Block | Status |
+## Arithmetic Units
+| Block  | Status |
 |--------|--------|
 | Half Adder | [x] |
 | Full Adder | [x] |
@@ -67,8 +68,8 @@ every file will have comment so do not worry my friend you will get to know the 
 | Divider | [ ] |
 | ALU (Arithmetic Logic Unit) | [ ] |
 
-#### Sequential Logic (Memory Elements)
-| Block | Status |
+## Sequential Logic (Memory Elements)
+| Block  | Status |
 |--------|--------|
 | SR Latch | [x] |
 | D Latch | [x] |
@@ -79,26 +80,28 @@ every file will have comment so do not worry my friend you will get to know the 
 | Shift Register | [ ] |
 | Counter | [ ] |
 
-#### Memory Units
-| Block | Status |
+## Memory Units
+| Block  | Status |
 |--------|--------|
 | RAM | [ ] |
 | FIFO Buffer | [ ] |
 | Stack (LIFO) with Push/Pop | [ ] |
 
-#### Control & Processing Units
-| Block | Status |
+## Control & Processing Units
+| Block  | Status |
 |--------|--------|
 | Finite State Machine | [ ] |
 | Instruction Decoder | [ ] |
 | Program Counter | [ ] |
 | Simple RISC-V CPU (Single-cycle or Pipelined) | [ ] |
 
-#### Advanced Blocks
-| Block | Status |
+## Advanced Blocks
+| Block  | Status |
 |--------|--------|
 | Barrel Shifter | [ ] |
 | Booth Multiplier | [ ] |
 | Wallace Tree Multiplier | [ ] |
 | Floating-Point Unit (FPU) | [ ] |
 | Cache Controller | [ ] |
+
+This repo will be updated with progress, so stay tuned!
