@@ -71,11 +71,11 @@ every file will have comment so do not worry my friend you will get to know the 
 | Block | Status |
 |--------|--------|
 | SR Latch | [x] |
-| D Latch | [ ] |
-| D Flip-Flop | [ ] |
-| T Flip-Flop | [ ] |
-| JK Flip-Flop | [ ] |
-| Register (N-bit) | [ ] |
+| D Latch | [x] |
+| D Flip-Flop | [x] |
+| T Flip-Flop | [x] |
+| JK Flip-Flop | [x] |
+| Register | [x] |
 | Shift Register | [ ] |
 | Counter | [ ] |
 
@@ -91,7 +91,7 @@ every file will have comment so do not worry my friend you will get to know the 
 |--------|--------|
 | Finite State Machine | [ ] |
 | Instruction Decoder | [ ] |
-| Program Counter (PC) | [ ] |
+| Program Counter | [ ] |
 | Simple RISC-V CPU (Single-cycle or Pipelined) | [ ] |
 
 #### Advanced Blocks
