@@ -1,6 +1,4 @@
 # Simple-CADD
-## Simple-CADD  
-
 ### Learning CADD from A to Z  
 
 - Welcome! This repo is here to take you from absolute zero to a level where you can confidently bring your ideas to life.
