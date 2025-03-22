@@ -37,71 +37,57 @@ Every file will have comments explaining the chosen syntax, so don’t worry!
 # Content of Code Blocks
 
 ## Basic Logic Gates (Combinational)
-| Block  | Status |
-|--------|--------|
-| NOT Gate  | [x] |
-| AND Gate  | [x] |
-| OR Gate  | [x] |
-| NAND Gate | [x] |
-| NOR Gate  | [x] |
-| XOR Gate  | [x] |
-| XNOR Gate | [x] |
+- [x] NOT Gate  
+- [x] AND Gate  
+- [x] OR Gate  
+- [x] NAND Gate  
+- [x] NOR Gate  
+- [x] XOR Gate  
+- [x] XNOR Gate  
 
 ## Basic Blocks (Combinational)
-| Block  | Status |
-|--------|--------|
-| Multiplexer | [x] |
-| Decoder | [x] |
-| Encoder | [x] |
-| Priority Encoder | [x] |
-| Comparator | [x] |
+- [x] Multiplexer  
+- [x] Decoder  
+- [x] Encoder  
+- [x] Priority Encoder  
+- [x] Comparator  
 
 ## Arithmetic Units
-| Block  | Status |
-|--------|--------|
-| Half Adder | [x] |
-| Full Adder | [x] |
-| Ripple Carry Adder | [ ] |
-| Carry Lookahead Adder | [ ] |
-| Subtractor | [ ] |
-| Multiplier | [ ] |
-| Divider | [ ] |
-| ALU (Arithmetic Logic Unit) | [ ] |
+- [x] Half Adder  
+- [x] Full Adder  
+- [x] Ripple Carry Adder  
+- [x] Carry Lookahead Adder  
+- [ ] Subtractor  
+- [ ] Multiplier  
+- [ ] Divider  
+- [ ] ALU (Arithmetic Logic Unit)  
 
 ## Sequential Logic (Memory Elements)
-| Block  | Status |
-|--------|--------|
-| SR Latch | [x] |
-| D Latch | [x] |
-| D Flip-Flop | [x] |
-| T Flip-Flop | [x] |
-| JK Flip-Flop | [x] |
-| Register | [x] |
-| Shift Register | [x] |
-| Counter | [x] |
+- [x] SR Latch  
+- [x] D Latch  
+- [x] D Flip-Flop  
+- [x] T Flip-Flop  
+- [x] JK Flip-Flop  
+- [x] Register  
+- [x] Shift Register  
+- [x] Counter  
 
 ## Memory Units
-| Block  | Status |
-|--------|--------|
-| RAM | [ ] |
-| FIFO Buffer | [ ] |
-| Stack (LIFO) with Push/Pop | [ ] |
+- [ ] RAM  
+- [ ] FIFO Buffer  
+- [ ] Stack (LIFO) with Push/Pop  
 
 ## Control & Processing Units
-| Block  | Status |
-|--------|--------|
-| Finite State Machine | [ ] |
-| Instruction Decoder | [ ] |
-| Program Counter | [ ] |
-| Simple RISC-V CPU (Single-cycle or Pipelined) | [ ] |
+- [ ] Finite State Machine  
+- [ ] Instruction Decoder  
+- [ ] Program Counter  
+- [ ] Simple RISC-V CPU (Single-cycle or Pipelined)  
 
 ## Advanced Blocks
-| Block  | Status |
-|--------|--------|
-| Barrel Shifter | [ ] |
-| Booth Multiplier | [ ] |
-| Wallace Tree Multiplier | [ ] |
-| Floating-Point Unit (FPU) | [ ] |
-| Cache Controller | [ ] |
+- [ ] Barrel Shifter  
+- [ ] Booth Multiplier  
+- [ ] Wallace Tree Multiplier  
+- [ ] Floating-Point Unit (FPU)  
+- [ ] Cache Controller  
 
 This repo will be updated with progress, so stay tuned!
