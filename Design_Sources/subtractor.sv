@@ -26,8 +26,11 @@ module subtractor #(parameter WIDTH = 1)
     output [WIDTH-1:0] D,
     output Bout
 );
-  assign {Bout, D} = a - b - Bin;
+
+  assign D = a ^ b ^ Bin;                // difference
+  assign Bout = (~a & b) | (~(a ^ b) & Bin); // borrow out
 endmodule
+
 
 
 // for Full Subtractor
@@ -37,3 +40,4 @@ endmodule
 // for Half Subtractor
 //  assign D = a ^ b;
 //  assign B = ~a & b;
+
