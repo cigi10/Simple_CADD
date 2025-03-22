@@ -26,7 +26,7 @@ module full_adder_tb;
   wire C_out;
   wire [3:0] Sum;
 
-  fulladd uut (
+  full_adder uut (
     .A(A),
     .B(B),
     .C_in(C_in),
