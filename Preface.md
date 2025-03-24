@@ -58,7 +58,7 @@ Every file will have comments explaining the chosen syntax, so don’t worry!
 - [x] Ripple Carry Adder  
 - [x] Carry Lookahead Adder  
 - [x] Subtractor  
-- [ ] Multiplier  
+- [x] Multiplier  
 - [ ] Divider  
 - [ ] ALU (Arithmetic Logic Unit)  
 
