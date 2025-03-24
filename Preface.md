@@ -59,7 +59,7 @@ Every file will have comments explaining the chosen syntax, so don’t worry!
 - [x] Carry Lookahead Adder  
 - [x] Subtractor  
 - [x] Multiplier  
-- [ ] Divider  
+- [x] Divider  
 - [ ] ALU (Arithmetic Logic Unit)  
 
 ## Sequential Logic (Memory Elements)
