@@ -60,7 +60,7 @@ Every file will have comments explaining the chosen syntax, so don’t worry!
 - [x] Subtractor  
 - [x] Multiplier  
 - [x] Divider  
-- [ ] ALU (Arithmetic Logic Unit)  
+- [x] ALU (Arithmetic Logic Unit)  
 
 ## Sequential Logic (Memory Elements)
 - [x] SR Latch  
