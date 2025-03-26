@@ -73,8 +73,8 @@ Every file will have comments explaining the chosen syntax, so don’t worry!
 - [x] Counter  
 
 ## Memory Units
-- [ ] RAM  
-- [ ] FIFO Buffer  
+- [x] RAM  
+- [x] FIFO Buffer  
 - [ ] Stack (LIFO) with Push/Pop  
 
 ## Control & Processing Units
