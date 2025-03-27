@@ -75,10 +75,10 @@ Every file will have comments explaining the chosen syntax, so don’t worry!
 ## Memory Units
 - [x] RAM  
 - [x] FIFO Buffer  
-- [ ] Stack (LIFO) with Push/Pop  
+- [x] Stack (LIFO) with Push/Pop  
 
 ## Control & Processing Units
-- [ ] Finite State Machine  
+- [x] Finite State Machine  
 - [ ] Instruction Decoder  
 - [ ] Program Counter  
 - [ ] Simple RISC-V CPU (Single-cycle or Pipelined)  
