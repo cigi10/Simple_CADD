@@ -6,7 +6,7 @@
 // Create Date: 03/22/2025 08:01:41 AM
 // Design Name: 
 // Module Name: 
-// Project Name: lifo
+// Project Name: instructiondecoder
 // Target Devices: 
 // Tool Versions: 
 // Description: 
