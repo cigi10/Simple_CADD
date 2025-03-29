@@ -84,7 +84,7 @@ Every file will have comments explaining the chosen syntax, so don’t worry!
 - [x] Simple RISC-V CPU - https://github.com/cigi10/RISCV-Mini-1
 
 ## Advanced Blocks
-- [ ] Barrel Shifter  
+- [x] Barrel Shifter  
 - [ ] Booth Multiplier  
 - [ ] Wallace Tree Multiplier  
 - [ ] Floating-Point Unit (FPU)  
