@@ -79,9 +79,9 @@ Every file will have comments explaining the chosen syntax, so don’t worry!
 
 ## Control & Processing Units
 - [x] Finite State Machine  
-- [ ] Instruction Decoder  
-- [ ] Program Counter  
-- [ ] Simple RISC-V CPU (Single-cycle or Pipelined)  
+- [x] Instruction Decoder  
+- [x] Program Counter  
+- [x] Simple RISC-V CPU - https://github.com/cigi10/RISCV-Mini-1
 
 ## Advanced Blocks
 - [ ] Barrel Shifter  
