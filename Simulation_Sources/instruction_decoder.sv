@@ -5,7 +5,7 @@
 // 
 // Create Date: 03/26/2025 03:53:00 PM
 // Design Name: 
-// Module Name: lifo_tb
+// Module Name: instructiondecoder_tb
 // Project Name: 
 // Target Devices: 
 // Tool Versions: 
@@ -26,7 +26,7 @@
  * testbench for instructiondecoder module
  * verifies correct control signal generation
  */
-module tb_instructiondecoder();
+module instructiondecoder_tb();
 
 // //////////////////////////////////////////////////////////////////////////////////
 // test parameters
@@ -47,7 +47,8 @@ logic [7:0] ctrl_sig1;         // control signals
 // //////////////////////////////////////////////////////////////////////////////////
 // instantiate dut
 // //////////////////////////////////////////////////////////////////////////////////
-instructiondecoder dut (
+instructiondecoder dut 
+(
     .sys_clock(sys_clock),
     .rst(rst),
     .clk_ph2(clk_ph2),
