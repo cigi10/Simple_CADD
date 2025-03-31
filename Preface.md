@@ -85,9 +85,8 @@ Every file will have comments explaining the chosen syntax, so don’t worry!
 
 ## Advanced Blocks
 - [x] Barrel Shifter  
-- [ ] Booth Multiplier  
-- [ ] Wallace Tree Multiplier  
-- [ ] Floating-Point Unit (FPU)  
-- [ ] Cache Controller  
+- [x] Booth Multiplier  
+- [x] Wallace Tree Multiplier  
+- [x] Floating-Point Unit (FPU)  
+- [x] Cache Controller  
 
-This repo will be updated with progress, so stay tuned!
