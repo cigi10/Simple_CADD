@@ -1,4 +1,4 @@
-# Simple-CADD 
+# Simple_CADD 
 [![Verilog](https://img.shields.io/badge/SystemVerilog-IEEE_1800_2023-red)](https://ieeexplore.ieee.org/document/9663557)
 [![Vivado](https://img.shields.io/badge/Vivado-2023.1-purple?logo=xilinx)](https://www.xilinx.com)
 [![Simulation](https://img.shields.io/badge/Hardware_Simulation-✅-brightgreen)]()  
